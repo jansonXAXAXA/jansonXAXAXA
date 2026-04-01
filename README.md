@@ -1,24 +1,18 @@
-<!--
-Как использовать:
-1. Создай репозиторий с именем ТОЧНО как твой GitHub username
-2. Назови файл README.md
-3. Вставь этот код
-4. Замени все [в квадратных скобках]
--->
+
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=900&color=58A6FF&center=true&vCenter=true&width=900&lines=[ТВОЕ_ИМЯ_ИЛИ_USERNAME];ML+Engineer+%2F+AI+Developer;Building+useful+AI+systems;Open+to+interesting+projects" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=900&color=58A6FF&center=true&vCenter=true&width=900&lines=[Янсон Богдан];ML+Engineer+%2F+AI+Developer;Building+useful+AI+systems;Open+to+interesting+projects" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <a href="https://t.me/[ТВОЙ_TELEGRAM]">
+  <a href="https://t.me/[jansonML]">
     <img src="https://img.shields.io/badge/Telegram-@[%D0%A2%D0%92%D0%9E%D0%99_%D0%9D%D0%98%D0%9A]-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
-  <a href="mailto:[ТВОЯ_ПОЧТА]">
+  <a href="mailto:[denisarkonov@gmail.com]">
     <img src="https://img.shields.io/badge/Email-contact-informational?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/[ТВОЙ_USERNAME]">
-    <img src="https://img.shields.io/badge/GitHub-[ТВОЙ_USERNAME]-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://github.com/jansonXAXAXA">
+    <img src="https://img.shields.io/badge/GitHub-jansonXAXAXA-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
@@ -28,10 +22,10 @@
 
 | Year | Competition / Activity | Result |
 |------|-------------------------|--------|
-| 2026 | [Название олимпиады / хакатона] | [1st place / finalist / prize winner] |
-| 2026 | [Название соревнования] | [результат] |
-| 2025 | [Название проекта / конкурса] | [результат] |
-| 2025 | [Что-то сильное и измеримое] | [Top X / победитель / призер] |
+| 2026 | [Профессионалы (ИИ)] | [Призер] |
+| 2026 | [НТО ИИ] | [Финалист] |
+| 2026 | [НТО БДИМО] | [Финалист] |
+| 2025 | [МПИТ (Самарская область)] | [Победитель] |
 
 ---
 
