@@ -1,15 +1,10 @@
-
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=900&color=58A6FF&center=true&vCenter=true&width=900&lines=[Янсон Богдан];ML+Engineer+%2F+AI+Developer;Building+useful+AI+systems;Open+to+interesting+projects" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=900&color=58A6FF&center=true&vCenter=true&width=900&lines=%D0%91%D0%BE%D0%B3%D0%B4%D0%B0%D0%BD+%D0%AF%D0%BD%D1%81%D0%BE%D0%BD;AI+%2F+ML+Developer;Competitive+AI+and+Practical+ML;Building+useful+AI+systems" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <a href="https://t.me/[jansonML]">
-    <img src="https://img.shields.io/badge/Telegram-@[%D0%A2%D0%92%D0%9E%D0%99_%D0%9D%D0%98%D0%9A]-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
-  </a>
-  <a href="mailto:[denisarkonov@gmail.com]">
-    <img src="https://img.shields.io/badge/Email-contact-informational?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="https://t.me/jansonML">
+    <img src="https://img.shields.io/badge/Telegram-@jansonML-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
   <a href="https://github.com/jansonXAXAXA">
     <img src="https://img.shields.io/badge/GitHub-jansonXAXAXA-181717?style=for-the-badge&logo=github&logoColor=white" />
@@ -22,10 +17,11 @@
 
 | Year | Competition / Activity | Result |
 |------|-------------------------|--------|
-| 2026 | [Профессионалы (ИИ)] | [Призер] |
-| 2026 | [НТО ИИ] | [Финалист] |
-| 2026 | [НТО БДИМО] | [Финалист] |
-| 2025 | [МПИТ (Самарская область)] | [Победитель] |
+| 2026 | МПИТ, Самарская область | Победитель |
+| 2026 | Профессионалы, ИИ, Самарская область | Призёр |
+| 2026 | ВСОШ по искусственному интеллекту, Самарская область | Участник регионального этапа |
+| 2026 | НТО ИИ | Финалист |
+| 2026 | НТО БДИМО | Финалист |
 
 ---
 
@@ -40,7 +36,6 @@
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Polars-CD792C?style=flat-square" />
 </p>
 
 ### Deep Learning / LLM
@@ -49,61 +44,71 @@
   <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
   <img src="https://img.shields.io/badge/Transformers-FFB000?style=flat-square" />
   <img src="https://img.shields.io/badge/FAISS-0467DF?style=flat-square" />
-  <img src="https://img.shields.io/badge/ONNX-005CED?style=flat-square&logo=onnx&logoColor=white" />
   <img src="https://img.shields.io/badge/Qwen-7A5AF8?style=flat-square" />
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square" />
 </p>
 
-### Backend / Infra
+### Backend / Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=fastapi,flask,docker,postgres,linux,git" />
+  <img src="https://skillicons.dev/icons?i=fastapi,docker,postgres,linux,git" />
 </p>
+
+---
+
+## About Me
+
+Hi, I'm **Богдан Янсон** — an AI/ML developer focused on competitive artificial intelligence, practical machine learning, and building useful intelligent systems.
+
+I actively participate in олимпиадах, инженерных соревнованиях, and AI competitions, and I'm especially interested in:
+
+- machine learning systems
+- LLM applications
+- ranking / classification tasks
+- AI for real-world products
+- competitive programming and applied research
 
 ---
 
 ## Projects
 
-### [PROJECT_1_NAME] · [коротко: что делает проект]
-> [1 сильная строка с сутью проекта]  
-> [модель / стек / подход] · [метрика или масштаб] · [deployment / интерфейс / infra]
+### AI Projects
+> Here you can place your strongest repositories: ML pipelines, LLM apps, ranking models, bots, or competition solutions.  
+> Focus on practical impact, metrics, and clean implementation.
 
-### [PROJECT_2_NAME] · [коротко: задача]
-> [что именно решает]  
-> [алгоритм / архитектура] · [результат в цифрах] · [что в этом необычного]
+### Competition Solutions
+> Repositories with solutions for olympiads, hackathons, NTO, and AI competitions.  
+> Best place to showcase your problem-solving and engineering skills.
 
-### [PROJECT_3_NAME] · [коротко: домен]
-> [короткое описание]  
-> [LLM / CV / tabular / RAG / boosting] · [dataset / API / extension / bot / web app]
-
-### [PROJECT_4_NAME] · [коротко: домен]
-> [короткое описание]  
-> [основные технологии] · [метрики / производительность / бизнес-эффект]
+### Experimental Research
+> Pet-projects with transformers, RAG, fine-tuning, classical ML, or backend for AI services.  
+> Good for demonstrating curiosity and depth.
 
 ---
 
 ## Focus
 
-- Building practical AI/ML systems
-- LLM applications and automation
-- Ranking / classification / recommendation
-- End-to-end product prototypes
+- Competitive AI
+- Applied Machine Learning
+- LLM systems
+- End-to-end AI projects
+- Building strong portfolio repositories
 
 ---
 
 ## Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=[ТВОЙ_USERNAME]&show_icons=true&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[ТВОЙ_USERNAME]&layout=compact&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=jansonXAXAXA&show_icons=true&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jansonXAXAXA&layout=compact&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[ТВОЙ_USERNAME]&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jansonXAXAXA&hide_border=true" />
 </p>
 
 ---
 
 <p align="center">
-  [ТВОЯ_КРАТКАЯ_ФИНАЛЬНАЯ_СТРОКА] <br/>
-  Open to collaborations / hackathons / research / product work
+  Interested in AI competitions, practical ML, and strong engineering projects. <br/>
+  Open to collaborations, hackathons, and ambitious ideas.
 </p>
