@@ -59,7 +59,7 @@
 
 Hi, I'm **Bogdan Janson** — an AI/ML developer focused on competitive artificial intelligence, practical machine learning, and building useful intelligent systems.
 
-I actively participate in олимпиадах, инженерных соревнованиях, and AI competitions, and I'm especially interested in:
+I actively participate in olympiad, hackathons, and AI competitions, and I'm especially interested in:
 
 - machine learning systems
 - LLM applications
