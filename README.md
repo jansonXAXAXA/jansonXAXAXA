@@ -79,7 +79,7 @@ I actively participate in olympiad, hackathons, and AI competitions, and I'm esp
 
 > https://github.com/Fle3n/ISS // Digital Breakthrough
 
-> ??? // МТС True Tech Hack (GPTHub)
+> https://github.com/jansonXAXAXA/gpthub-space // МТС True Tech Hack (GPTHub)
 
 ### Experimental Research
 > https://github.com/kirikCS/eventscan-app // MPIT (Kaliningrad)
