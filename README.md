@@ -85,6 +85,8 @@ I actively participate in olympiad, hackathons, and AI competitions, and I'm esp
 
 > https://github.com/jansonXAXAXA/gpthub-space // МТС True Tech Hack (GPTHub)
 
+> https://github.com/jansonXAXAXA/alisa-ai-yandex-hack // Alisa AI Hack (ITMO)
+
 ### Experimental Research
 > https://github.com/kirikCS/eventscan-app // MPIT (Kaliningrad)
 
